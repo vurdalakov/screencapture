@@ -14,11 +14,11 @@
 
 ## Points of interest
 
-* [AssemblyInformation class](https://github.com/vurdalakov/screencapture/blob/master/src/UsbDevicesDotNet/Vurdalakov/AssemblyInformation.cs) - reads all fields of AssemblyInfo.cs file from any assembly.
-* [DesktopWindowManager class](https://github.com/vurdalakov/screencapture/blob/master/src/UsbDevicesDotNet/Vurdalakov/DesktopWindowManager.cs)- access to some functions of [Desktop Window Manager (DWM)](https://docs.microsoft.com/en-us/windows/desktop/api/_dwm/).
-* [MessageOnlyWindow class](https://github.com/vurdalakov/screencapture/blob/master/src/UsbDevicesDotNet/Vurdalakov/MessageOnlyWindow.cs) - a message-only WinApi window.
-* [ScreenCapture class](https://github.com/vurdalakov/screencapture/blob/master/src/UsbDevicesDotNet/Vurdalakov/ScreenCapture.cs) - captures active application, active or primary screen or all screens to Clipboard or file.
-* [SystemWideHotKeys class](https://github.com/vurdalakov/screencapture/blob/master/src/UsbDevicesDotNet/Vurdalakov/SystemWideHotKeys.cs) - sets system-wide hot key using [RegisterHotKey](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646309.aspx) function.
+* [AssemblyInformation class](https://github.com/vurdalakov/screencapture/blob/master/src/ScreenCapture/Vurdalakov/AssemblyInformation.cs) - reads all fields of AssemblyInfo.cs file from any assembly.
+* [DesktopWindowManager class](https://github.com/vurdalakov/screencapture/blob/master/src/ScreenCapture/Vurdalakov/DesktopWindowManager.cs)- access to some functions of [Desktop Window Manager (DWM)](https://docs.microsoft.com/en-us/windows/desktop/api/_dwm/).
+* [MessageOnlyWindow class](https://github.com/vurdalakov/screencapture/blob/master/src/ScreenCapture/Vurdalakov/MessageOnlyWindow.cs) - a message-only WinApi window.
+* [ScreenCapture class](https://github.com/vurdalakov/screencapture/blob/master/src/ScreenCapture/Vurdalakov/ScreenCapture.cs) - captures active application, active or primary screen or all screens to Clipboard or file.
+* [SystemWideHotKeys class](https://github.com/vurdalakov/screencapture/blob/master/src/ScreenCapture/Vurdalakov/SystemWideHotKeys.cs) - sets system-wide hot key using [RegisterHotKey](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646309.aspx) function.
 
 ## License
 
