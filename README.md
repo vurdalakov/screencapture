@@ -10,6 +10,8 @@
 * Optionally delays screen capture by 1-9 seconds.
 * Optionally sets system-wide hot key.
 
+![Screen Capture](screencapture1.png)
+
 ## Points of interest
 
 * [AssemblyInformation class](https://github.com/vurdalakov/screencapture/blob/master/src/UsbDevicesDotNet/Vurdalakov/AssemblyInformation.cs) - reads all fields of AssemblyInfo.cs file from any assembly.
